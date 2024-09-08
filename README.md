@@ -35,4 +35,4 @@ after connected to a database
 
 at first run this command to make the bash file executable command ```chmod u+x path_to_shell_file```
 
-then run this command to can run the program by it's name only ```echo $PATH:/path_to_the_folder_of_shell_file >> ~/.bashrc```
+then run this command to can run the program by it's name only ```echo PATH=$PATH:/path_to_the_folder_of_shell_file >> ~/.bashrc```
