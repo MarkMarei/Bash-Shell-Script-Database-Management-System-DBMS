@@ -33,5 +33,6 @@ after connected to a database
    Updates records in a specific table based on user-defined criteria.
 ### How to use it
 
-at first run this command to make the bash file executable command ```chmod u+x```
-then run this command to can run the program by it's name only (echo)
+at first run this command to make the bash file executable command ```chmod u+x path_of_shell_file```
+
+then run this command to can run the program by it's name only (echo) (echo $PATH:/\`pwd`)
